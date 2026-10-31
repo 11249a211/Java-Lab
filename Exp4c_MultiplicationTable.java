@@ -34,3 +34,6 @@ public class Exp4c_MultiplicationTable {
         sc.close();
     }
 }
+
+Result
+Thus, the Java program to print the multiplication table of a given number was executed successfully.
